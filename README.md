@@ -7,3 +7,4 @@ Download all part of the model file (archive.zip, archive.z01, archive.z02). Cop
 Autodesk Fusion 360 can be used for free for educational purpose:
 https://www.autodesk.com/campaigns/education/fusion-360
 
+![3d_model](https://github.com/mri4all/3d_model/assets/35747793/239f7ddb-1b4f-48fc-934d-ff181e31c85f)
