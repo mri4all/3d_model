@@ -1,4 +1,4 @@
-# MRI4ALL Zeugmatron Z1 3D Model
+# MRI4ALL "Zeugmatron Z1" 3D Model
 
 This repository contains the 3D model of the Zeugmatron Z1 scanner, which can be used to 3D print the parts of the magnet. The model is provided in the Autodesk Fusion 360 .f3d format. 
 
